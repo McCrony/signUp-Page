@@ -32,7 +32,7 @@ This project recreates a common registration page layout with:
 ## Project Structure
 
 - `index.html` - page structure and form markup
-- `index.css` - layout and visual styling
+- `stylesheet.css` - layout and visual styling
 - `images/` - logo/background assets used by the page
 
 ## Getting Started
@@ -50,3 +50,7 @@ No build tools or dependencies are required.
 ## Acknowledgment
 
 Project completed as part of **The Odin Project** Foundations curriculum.
+
+## Live Site
+https://mccrony.github.io/signUp-Page/
+
