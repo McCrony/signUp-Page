@@ -18,7 +18,7 @@
 
         .left {
             flex: 1;
-            background: url(/images/background.jpg) no-repeat center center/cover;
+            background: url(images/background.jpg) no-repeat center center/cover;
             background-size: cover;
             position: relative;
             display: flex;
